@@ -10,5 +10,8 @@ export default defineNuxtConfig({
         {hid: 'description', name: 'description', content: 'Nuxt app starter kit'}
       ]
     }
-  }
+  },
+  modules: [
+    '@nuxtjs/tailwindcss'
+  ]
 })
