@@ -1,5 +1,5 @@
 <template>
   <div>
-    <NuxtPage/>
+    Ini page about
   </div>
 </template>
